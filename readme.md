@@ -59,7 +59,6 @@ The output is a JSON array containing objects with the following structure:
       "http-title": "Welcome to nginx!"
     }
   },
-  ...
 ]
 ```
 
@@ -67,7 +66,6 @@ The output is a JSON array containing objects with the following structure:
 
 - **Lightweight**: No external dependencies beyond the Python standard library
 - **Fast**: Efficiently parses large XML files
-- **Containerized**: Ready to run in Docker
 - **Detailed**: Captures all important information from Nmap scans
 
 ## Requirements

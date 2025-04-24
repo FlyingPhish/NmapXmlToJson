@@ -3,7 +3,7 @@
 NmapXmlToJson - Convert Nmap XML output to simplified flat JSON format.
 
 Usage:
-    python nmap_xml_to_json.py -i input.xml [-o output.json] [-s STATUS]
+    python NmapXmlToJson.py-i input.xml [-o output.json] [-s STATUS]
     
 If output.json is not specified, will write to stdout.
 STATUS can be: open, closed, filtered, or all (default)
